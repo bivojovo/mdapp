@@ -1,0 +1,12 @@
+{
+  "name": "susa",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "bootstrap": "~3.3.6",
+    "jquery": "~2.2.1",
+    "typeahead.js": "~0.11.1",
+    "bootstrap-datepicker": "~1.6.0"
+  }
+}
